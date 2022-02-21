@@ -5,10 +5,10 @@
 
   <h3>🙋  Hi I'm Dongry</h3>
   
-<!--   <h3>📄 My Profile</h3>
-  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-3831364898844426ab7643741dffe461">
+  <h3>📄 My Profile</h3>
+  <a href="https://kimdongin.notion.site/Dongry-c209346a8f0049cda49450507b65ddac">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://closed-lake-4dd.notion.site/3831364898844426ab7643741dffe461"/>
-  </a> -->
+  </a>
   
   <br>
   <br>
